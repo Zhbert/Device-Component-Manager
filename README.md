@@ -1,1 +1,1 @@
-# Device-Component-Organizer
+# Device Component Manager
